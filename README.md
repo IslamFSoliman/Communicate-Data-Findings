@@ -43,7 +43,8 @@ This project is a *win - win situation* where the company and a large number of 
   <li>readme.md - This Markdown file contains sections I've filled out after selecting the dataset, completed the exploration, and planed my explanatory analysis.
   <li>exploration.ipynb - This Jupyter Notebook contains my dataset exploration, starting from loading in the data, working through univariate visualizations, and ending with bivariate and multivariate exploration.
   <li>slides.ipynb - This Jupyter Notebook contains my slide deck deliverable.
-<br>To view the slide deck, you will need to use the expression (all one line):
+
+To view the slide deck, you will need to use the expression (all one line):
 <br>! jupyter nbconvert slides.ipynb --to slides --post serve  --no-input --no-prompt<br>
   
   <li>output_toggle.tpl - This template file can be used with nbconvert to export your slide deck. This adds extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output (which should mostly be visualizations in the case of this project).
