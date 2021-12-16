@@ -11,18 +11,24 @@ Explanatory data visualization techniques are used after generating our findings
 
 ## Project Details
 <ol>
-  <li>Dataset: <a href="https://s3.amazonaws.com/baywheels-data/index.html" target="_blank">Ford GoBike(Feb & Mar 2020)!</a>
-  <li>Explore the data: Feel free to explore the jupyter notebook where the dataset is visually, and programatically explored.
-  <li>Document the story: organized findings convey a story to present to an audience.
-  <li>Communicate the findings - a slide deck with my findings is prepared for a curious audience.
+  <li>Dataset: <a href="https://s3.amazonaws.com/baywheels-data/index.html" target="_blank">Ford GoBike (Feb & Mar 2020)</a>
+  <li>Exploring the data: Please explore the jupyter notebook file where the dataset is programatically, and visually explored.
+  <li>Document the story: Please check Readme.md file where the findings are documented to convey a story to present to an audience.
+  <li>Communicate the findings: Please check the finalized slide deck with my findings is prepared for a curious audience.
 </ol>
 
 ## Project Findings
-This project is a win - win situation where a large number of people can benefit from this program:
+This project is a *win - win situation* where the company and a large number of people can benefit from this program:
 
-Environmentally friendly, budget friendly, and lifetsyle friendly.
-Subscribers (i.e. daily commuters) benefit from a health commuting choice.
-Customers (i.e. tourists, students, etc.) have a sustainable, yet flexible option for touring the city.
-Affordable and convenient transportation for the people of all socioeconomic classes.
-Renting a bike from theFord GoBike System is a fantastic (healthy and environmentally friendly) way of moving around in the city, both for enjoyment and work.
-There are two types of clients using the system: Subscribers and Customers. Subscribers are primarily daily commuters, having short trips to and from work, who rent a bike on weekdays at 8-9am and 5-6pm. Customers are usually tourists or occassional riders who use the system mainly on weekends to explore the Bay Area. Age is also a factor within user type. Subscribers who fall in the age group between 26-35 years old are the most common age group to use the bike sharing system. The 26-35 years old also lead the spike which occurs across all age groups in October. Subscribers who fall in the 36-45 year old age group are the next most common age group to use the bike sharing system, and follow a similar trend at the 26-35 year olds.
+- **Subscribers** `61.3%` (i.e. daily commuters) benefit from a healthy commuting choice.
+- **Customers** `38.7%` (i.e. tourists, students, etc.) have a sustainable, yet flexible option for touring the city.
+- The use of the service peaks mainly at `08:00AM` and `05:00PM`. This is due to work and school times in the United States.
+- **Weekdays** shows *`more demand`* for the service, while **weekends** witness the *`lowest utilisation`* of service.
+- The majority of **trip duration** falls between *`20 minutes or less`*.
+- The busiest day of week is **Monday**.
+- The **average** subscriber **trip duration** is about *`10 minutes`* and it seems to be fixed within that range without major fluctuations.
+- The **variation** for *`customers`* tends to be more that that of *`subscribers`*.
+
+## Key Insights for The Presentation
+
+- 
