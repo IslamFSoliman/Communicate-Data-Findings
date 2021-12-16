@@ -11,7 +11,7 @@ Explanatory data visualization techniques are used after generating our findings
 
 ## Project Details
 <ol>
-  <li>Dataset: [Ford GoBike](https://s3.amazonaws.com/baywheels-data/index.html)
+  <li>Dataset: <a href="https://s3.amazonaws.com/baywheels-data/index.html" target="_blank">Ford GoBike(Feb & Mar 2020)!</a>
   <li>Explore the data: Feel free to explore the jupyter notebook where the dataset is visually, and programatically explored.
   <li>Document the story: organized findings convey a story to present to an audience.
   <li>Communicate the findings - a slide deck with my findings is prepared for a curious audience.
