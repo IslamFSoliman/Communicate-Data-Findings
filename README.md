@@ -44,12 +44,6 @@ This project is a *win - win situation* where the company and a large number of 
   <li>exploration.ipynb - This Jupyter Notebook contains my dataset exploration, starting from loading in the data, working through univariate visualizations, and ending with bivariate and multivariate exploration.
   <li>slides.ipynb - This Jupyter Notebook contains my slide deck deliverable.
 
-## Project Files
-<ol>
-  <li>readme.md - This Markdown file contains sections I've filled out after selecting the dataset, completed the exploration, and planed my explanatory analysis.
-  <li>exploration.ipynb - This Jupyter Notebook contains my dataset exploration, starting from loading in the data, working through univariate visualizations, and ending with bivariate and multivariate exploration.
-  <li>slides.ipynb - This Jupyter Notebook contains my slide deck deliverable.
-
 To view the slide deck, you will need to use the expression (all one line):
 <br>! jupyter nbconvert slides.ipynb --to slides --post serve  --no-input --no-prompt<br>
   
